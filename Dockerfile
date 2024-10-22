@@ -1,0 +1,1 @@
+from gethue/hue:latest
